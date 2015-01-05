@@ -73,10 +73,10 @@
         <br/><span id="site-description"><?php print $site_slogan; ?></span>
     </div>
     <div id="biz-details" class="right">
-    <div id="biz-address"><span class="b">Contact Address:</span> 13, Olaide Tomori Street, <br/>Off Simbiat Abiola (Medical) Road, Ikeja, Lagos. Nigeria.</div>
+    <div id="biz-address"><span class="b">Contact Address:</span> 2, Gbajobi Street, Off Oritshe Street, <br/>By Balogun Bus Stop, Ikeja, Lagos. Nigeria.</div>
     <div id="contact-person"><span class="b">Contact Person:</span> Mikhail Olatunde (MBA, FCA, ACTI)
 <br/><span class="b">Email:</span> Olatunde.m@mikholng.com 
-<br/><span class="b">Telephone:</span> +234-1-8516422 , +234-8023325137</div>
+<br/><span class="b">Telephone:</span> +234-8023325137</div>
     </div>
     <div class="clear"></div>
     <nav id="main-menu"  role="navigation">
@@ -270,7 +270,7 @@
      <?php } ?>
      <!--Remove Theme Credit by Setting -->
      <?php if(!theme_get_setting('display_theme_credit','professional_theme')) {?>  
-     		<p class="credits"> <?php print t('Web design by'); ?>  <a href="http://follioninvestment.com/nextgenweb.com">NextGen Web</a></p>
+     		<p class="credits"> <?php print t('Web design by'); ?>  <a href="index.php">Web Expert</a></p>
      <?php } ?>
     <div class="clear"></div>
     </div>
